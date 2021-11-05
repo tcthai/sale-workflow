@@ -5,3 +5,5 @@
   * Sergio Teruel
   * Ernesto Tejeda
   * Pedro M. Baeza
+* `Trobz <https://trobz.com>`_:
+  * Thai Tran <thaitc@trobz.com>
