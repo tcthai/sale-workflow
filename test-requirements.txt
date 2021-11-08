@@ -1,0 +1,1 @@
+odoo14-addon-sale_procurement_group_by_line @git+https://github.com/OCA/sale-workflow@refs/pull/1689/head#subdirectory=setup/sale_procurement_group_by_line
